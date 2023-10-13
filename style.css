@@ -1,15 +1,8 @@
-/* *{
-    width: 0vw;
-    height: 0vh;
-    background-color: black;
-} */
 body{
-    /* color: white; */
     background-color: black;
 }
 .card{
     background-color: white ;
-    /* color: white; */
     margin-top: 2%;
     margin-left: 40%;
     display: flow-root;
